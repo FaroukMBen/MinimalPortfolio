@@ -10,7 +10,7 @@ export default [
             Description:
                 "Un projet qui récupère tous les jeux de votre bibliothèque Steam via votre ID et vous permet de créer une tier list avec ceux-ci (vous pouvez désactiver l’affichage des jeux gratuits).",
         },
-        Thumbnail: "/src/assets/SteamListThumbnail.png",
+        Thumbnail: "/images/SteamListThumbnail.png",
         Github: "https://github.com/FaroukMBen/SteamTierList",
         Demo: "",
         Tags: ["React", "TypeScript", "CSS"],
@@ -26,7 +26,7 @@ export default [
             Description:
                 "Comme son nom l’indique, un projet React composé de cinq petits mini-jeux, conçu pour me former à cette technologie en vue de mon prochain gros projet.",
         },
-        Thumbnail: "/src/assets/5MinigamesThumbnail.png",
+        Thumbnail: "/images/5MinigamesThumbnail.png",
         Github: "https://github.com/FaroukMBen/5Minigames",
         Demo: "",
         Tags: ["React", "TypeScript", "CSS"],
